@@ -1,0 +1,1 @@
+This repo contains the projects completed in my parallel programming course CS475.
